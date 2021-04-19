@@ -63,5 +63,5 @@ get ![xcha](https://latex.codecogs.com/gif.latex?X_{chassis})
 ### More Info
 For more details about this project, check out [the project instructions here](http://hades.mech.northwestern.edu/index.php/Mobile_Manipulation_Capstone). 
 
-Also, check out the live demo of the project on Youtube:
+Also, check out the live demo of the project on Vimeo:
 [![Screenshot from 2020-01-13 06-50-05](https://user-images.githubusercontent.com/39393023/72257326-fe0dac00-35d0-11ea-8b9e-05db4616e818.png)](https://vimeo.com/538476673)
